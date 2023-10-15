@@ -1,26 +1,26 @@
-/chatgptclone/node_modules
+/front/node_modules
 
 /node_modules
-/chatgptclone/.pnp
-/chatgptclone/.pnp.js
+/front/.pnp
+/front/.pnp.js
 
 # testing
-/chatgptclone/coverage
+/front/coverage
 
 # production
-/chatgptclone/build
+/front/build
 
 # misc
-/chatgptclone/.DS_Store
-/chatgptclone/.env.local
-/chatgptclone/.env.development.local
-/chatgptclone/.env.test.local
-/chatgptclone/.env.production.local
-/chatgptclone/.env
+/front/.DS_Store
+/front/.env.local
+/front/.env.development.local
+/front/.env.test.local
+/front/.env.production.local
+/front/.env
 
-/chatgptclone/npm-debug.log*
-/chatgptclone/yarn-debug.log*
-/chatgptclone/yarn-error.log*
+/front/npm-debug.log*
+/front/yarn-debug.log*
+/front/yarn-error.log*
 
 /backend/node_modules
 /backend/.env
