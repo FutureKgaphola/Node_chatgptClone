@@ -1,4 +1,14 @@
+/chatgptclone/node_modules
 
+/node_modules
+/chatgptclone/.pnp
+/chatgptclone/.pnp.js
+
+# testing
+/chatgptclone/coverage
+
+# production
+/chatgptclone/build
 
 # misc
 /chatgptclone/.DS_Store
