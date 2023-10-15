@@ -1,0 +1,26 @@
+/chatgptclone/node_modules
+
+/node_modules
+/chatgptclone/.pnp
+/chatgptclone/.pnp.js
+
+# testing
+/chatgptclone/coverage
+
+# production
+/chatgptclone/build
+
+# misc
+/chatgptclone/.DS_Store
+/chatgptclone/.env.local
+/chatgptclone/.env.development.local
+/chatgptclone/.env.test.local
+/chatgptclone/.env.production.local
+/chatgptclone/.env
+
+/chatgptclone/npm-debug.log*
+/chatgptclone/yarn-debug.log*
+/chatgptclone/yarn-error.log*
+
+/backend/node_modules
+/backend/.env
